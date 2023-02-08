@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, yo soy Gabriela Wongchuig</h1>
+<h1 align="center">Hola 👋, yo soy Gaba Wongchuig</h1>
 <h2 align="center">Me encanta la programación!</h3>
 
 
