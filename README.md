@@ -13,6 +13,14 @@
 </p>
 
 
+- 🔭 Quieres saber más de mi? [dale click y encontrarás mi CV](https://www.canva.com/design/DAFT3j9Nnqg/e1aYQjn9eFrix2BDsQnn1Q/view?utm_content=DAFT3j9Nnqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- 🌱 Estoy estudiando **Inglés**
+
+- 💬 Comenzaré un proyecto con **Angular**
+
+- 📫 How to reach me **gabrielawongchuig@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
